@@ -20,6 +20,7 @@ features:
 - Various shaders
 - Transformable OpenGL objects
 - Moveable Camera
+- Ability to create OpenGL objects
 
 
 
