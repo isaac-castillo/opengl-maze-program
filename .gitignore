@@ -1,0 +1,10 @@
+CMakeFiles/*
+.vscode/*
+
+# Build files
+opengl
+Makefile
+
+
+#Imgui cache 
+imgui.ini
